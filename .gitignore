@@ -129,3 +129,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# mnist-pngs
+unit04-multilayer-nets/4.4-dataloaders/mnist-pngs
